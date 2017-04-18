@@ -1,5 +1,7 @@
-# Vanlife app - React Adelaide Meetup #1
+# Friendzone app - React Adelaide Meetup #1
 A demo app built with React native for the first React Adelaide Meetup
+
+Slides from the talk can be found [here](http://slides.com/jamesblight/react-native-intro#/)
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
