@@ -1,0 +1,44 @@
+{
+  "listings": [
+    {
+      "id": 1,
+      "title": "LARPING with me and my buddies",
+      "description": "2 hours. Meet at the tree",
+      "price": "$40",
+      "imageSrc": "",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "title": "Fishing with large group",
+      "description": "BYO rod and tackle",
+      "price": "$10",
+      "imageSrc": "",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "title": "Come to my place for boardgames with me and my friends",
+      "description": "Please visit",
+      "price": "$20",
+      "imageSrc": "",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "title": "Private dinner with friends",
+      "description": "Bring snacks",
+      "price": "$100",
+      "imageSrc": "",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "title": "Watch the Olympics with us",
+      "description": "Must like sports",
+      "price": "$80",
+      "imageSrc": "",
+      "count": 0
+    }
+  ]
+}
